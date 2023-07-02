@@ -1,0 +1,17 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CityInfo.API
+build_property.RootNamespace = CityInfo.API
+build_property.ProjectDir = /Users/holiv/Library/CloudStorage/GoogleDrive-mrheltonso@gmail.com/My Drive/TI/Pluralsight/ASP.NET Core Web API/ASP.NET Core Web API Fundamentals/CityInfo_PC_v2.0/CityInfo.API/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/holiv/Library/CloudStorage/GoogleDrive-mrheltonso@gmail.com/My Drive/TI/Pluralsight/ASP.NET Core Web API/ASP.NET Core Web API Fundamentals/CityInfo_PC_v2.0/CityInfo.API
+build_property._RazorSourceGeneratorDebug = 
